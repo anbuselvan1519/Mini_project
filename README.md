@@ -48,3 +48,7 @@ streamlit run app.py
 - Multi-language support
 
 - Real-time camera-based detection
+
+## 📸 Demo Output
+
+![Alt text](output.png)
