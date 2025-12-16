@@ -1,0 +1,19 @@
+# Python auto-generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Trained model files (large)
+models/*.pt
+models/*.h5
+
+# Large datasets
+data/raw/
+data/full/
+
+# OS junk
+Thumbs.db
+.DS_Store

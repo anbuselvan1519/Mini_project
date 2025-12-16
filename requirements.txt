@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+numpy
+pillow
+transformers      # for LLM (e.g., DistilGPT-2)
+sentencepiece     # tokenizer support if using some LLMs
+
